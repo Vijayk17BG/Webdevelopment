@@ -24,6 +24,20 @@
 2)Design a simple form and connect to backend database
 
 
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <video width="320" height="240" controls>
+      <source src=”http://version.com/demos/sample-videos/small.ogv” type=video/ogg>
+      <source src="/build/videos/dotnet.io(7-sec).mp4" type=video/mp4>
+    </video>
+    <p>Here we go we have here a sample video
+    </p>
+  </body>
+</html>
 
 <html><head>
         <title>Sign Up</title>
